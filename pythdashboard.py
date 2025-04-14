@@ -29,7 +29,7 @@ dropdown_options = [
 
 
 # List of years
-year_list = [i for i in range(1980, 2024, 1)]
+year_list = [i for i in range(1980, 2013, 1)]
 #---------------------------------------------------------------------------------------
 # Create the layout of the app
 app.layout = html.Div([
